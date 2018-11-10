@@ -1,0 +1,40 @@
+ {
+ "colors": [
+    {
+      "color": "red",
+      "rgba": [255,0,0,1],
+      "hex": "#FF0000"
+    },
+    {
+      "color": "blue",
+      "rgba": [0,0,255,0],
+      "hex": "#0000FF"
+      
+    },
+    {
+      "color": "yellow",
+      "rgba": [255,255,0,1],
+      "hex": "#FFFF00"
+      
+    },
+	{
+      "color": "purple",
+      "rgba": [128,0,128,1],
+      "hex": "#800080"
+      
+    },
+	{
+			
+      "color": "orange",
+      "rgba": [255,165,0,1],
+      "hex": "#FFA500"
+      
+    },
+    {
+      "color": "green",
+     
+        "rgba": [0,255,0,0],
+        "hex": "#008000"
+	}
+  ]
+}

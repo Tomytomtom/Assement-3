@@ -1,0 +1,7 @@
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\bin\Release\MessageingPipeAppTwo.exe.config
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\bin\Release\MessageingPipeAppTwo.exe
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\bin\Release\MessageingPipeAppTwo.pdb
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\obj\Release\MessageingPipeAppTwo.csprojResolveAssemblyReference.cache
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\obj\Release\MessageingPipeAppTwo.csproj.CoreCompileInputs.cache
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\obj\Release\MessageingPipeAppTwo.exe
+E:\Diploma\More JAVA\MessageingPipeApp\MessageingPipeAppTwo\obj\Release\MessageingPipeAppTwo.pdb
